@@ -45,7 +45,7 @@ function App() {
         </h4>
         <h4>
           Code on{" "}
-          <a id="github" href="">
+          <a id="github" href="https://github.com/Felivander/lorem-ipsum-generator">
             Github
           </a>
         </h4>
