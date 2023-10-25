@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <section className="section-center">
-        <h3>Tired of boring lorem ipsum?</h3>
+        <h3>Better text generator</h3>
         <form className="lorem-form" onSubmit={handleSubmit}>
           <label htmlFor="amount">paragraphs:</label>
           <input
@@ -45,7 +45,10 @@ function App() {
         </h4>
         <h4>
           Code on{" "}
-          <a id="github" href="https://github.com/Felivander/lorem-ipsum-generator">
+          <a
+            id="github"
+            href="https://github.com/Felivander/lorem-ipsum-generator"
+          >
             Github
           </a>
         </h4>
